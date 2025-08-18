@@ -1,2 +1,6 @@
+title: DIG 3171 Example Repository 
 theme: jekyll-theme-cayman
-Title: DIG 3171 Example Repository 
+
+header_pages:
+  - index.html
+  - schedule.md
