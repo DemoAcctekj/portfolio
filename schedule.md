@@ -1,5 +1,6 @@
 ---
 title: Course Schedule & Project List
+layout: default
 ---
 
 {% include nav.html %}
