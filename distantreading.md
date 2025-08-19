@@ -13,3 +13,19 @@ title: Distant Reading Project
 This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
 
 Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+
+To add an image: 
+1. Upload it to Github
+   - Click <> Code in the menu
+   - Then click "Add file"
+   - Then click "Upload Files"
+   - Drag/select your image file
+   - Click "commit" to upload
+2. Link to your image on this page using this code:
+   	```
+    ![image alt text](filename.png)
+    ```
+  
+   ![Sample image from Voyant](voyant.png)
+   
+   
