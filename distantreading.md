@@ -8,8 +8,22 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I used Voyant to search this website! [Pokemon Website!](https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon)
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+I learned things.
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+Check out my image!
+
+![Pokemon words from Voyant -words, word, word, word most common](pokemonwords.png)
+
+
+---
+I also tried Copilot! With ChatGPT-5 and here's a bit of our conversation:
+
+asd;fads;kfasdfjasd;flkjda
+adf;had;kfjfhadsk;fhad
+asdk;fhda;kjffhda;kfgad
+a;kfhad;skjfhad;sjk;ahdsf;k
+
+
+
