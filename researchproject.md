@@ -12,7 +12,7 @@ If it is easier to embed your project in an HTML file, just change the .md on th
 # Video Demonstration of My Digital Project!
 <video width="100%" controls>
 <source src="video1216122964.mp4" type="video/mp4">
-<track kind="subtitles" src="video1216122964.vtt" srclang="eg" label="English" default>
+<track kind="subtitles" src="video1216122964.vtt" srclang="en" label="English" default>
   Your browser does not support the video tag.
 </video>
 
