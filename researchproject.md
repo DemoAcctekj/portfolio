@@ -9,6 +9,13 @@ This is a big project, and you definitely want a place to show it off! Here's a 
 You can link to your project here, or embed it.
 If it is easier to embed your project in an HTML file, just change the .md on this one to .html, and write in HTML! (Be sure to update the links to this page to reflect the new name though!)
 
+# Video Demonstration of My Digital Project!
+<video width="100%" controls>
+<source src="video1216122964.mp4" type="video/mp4">
+<track kind="subtitles" src="video1216122964.vtt" srclang="eg" label="English" default>
+  Your browser does not support the video tag.
+</video>
+
 # Abstract
 
 Here is my abstract. 
