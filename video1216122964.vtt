@@ -1,0 +1,207 @@
+WEBVTT
+
+
+00:00:02.999 --> 00:00:08.999
+Hey everyone, this is a quick video to go over, um, some of the highlights of Exercise 8 Chatbot.
+
+00:00:10.203 --> 00:00:16.203
+Um, so the first thing you want to do is, you know, interrogate a chatbot of your choice.
+
+00:00:16.984 --> 00:00:23.984
+And really push its limits. What information does it share? What's accurate? What's not accurate? What does it know? What doesn't it know?
+
+00:00:24.733 --> 00:00:32.733
+Um, what is it allowed to say and not allowed to say? Like, basically, what can you tell about what's, like, behind the interface, what it was trained on?
+
+00:00:33.081 --> 00:00:41.081
+based on, like, the responses you get, um, from different things that you ask it. And don't be afraid to, like, rephrase your questions and really try to…
+
+00:00:41.311 --> 00:00:44.311
+push it and see what, um, see what you can see.
+
+00:00:45.505 --> 00:00:47.505
+And then you're going to create your own chatbot.
+
+00:00:48.491 --> 00:00:53.491
+Um, and there are a bunch of different options in the module. There's a chatbot resources page.
+
+00:00:53.588 --> 00:00:57.588
+Um, several other, um, helpful things in the module.
+
+00:00:57.952 --> 00:01:00.952
+And then, um, let's see, lots of pages there.
+
+00:01:01.380 --> 00:01:03.380
+And then the, um…
+
+00:01:04.429 --> 00:01:09.429
+What I'm looking at today is bot press, and I've created a bot in BotPress. Well, I've almost created it.
+
+00:01:10.138 --> 00:01:13.138
+I wanted to show you this screen, because I didn't want you to panic.
+
+00:01:13.627 --> 00:01:16.627
+Um, please do not pay any AI company for any…
+
+00:01:17.057 --> 00:01:20.057
+chatbots. Um, nothing for this class.
+
+00:01:20.996 --> 00:01:25.996
+that no assignment should require any kind of subscription or payment to an outside
+
+00:01:26.562 --> 00:01:32.562
+source. And so I just wanted you to point out, you don't have to buy this plan, you don't have to contact us.
+
+00:01:32.848 --> 00:01:38.848
+You can just click Not Now over here in the corner. So let's click that and see if my bot is actually done.
+
+00:01:39.841 --> 00:01:42.841
+What I did was… oh boy, that's fun.
+
+00:01:44.058 --> 00:01:47.058
+Cool. Okay, so I uploaded… I exported the course.
+
+00:01:47.674 --> 00:01:50.674
+And it exported in some weird file that I had to then
+
+00:01:51.249 --> 00:01:53.249
+convert, and so, like, some of the pages
+
+00:01:53.472 --> 00:01:59.472
+exported just fine, and some didn't, and some unpublished old pages exported, so…
+
+00:02:00.108 --> 00:02:09.108
+Uh, it's anyone's guess what this thing is gonna say, but that's besides the point for my demo right now. What I'm gonna do is show you how to get from here
+
+00:02:10.177 --> 00:02:17.177
+to, um, putting it on your GitHub if you want. It's totally fine to just share the link to your bot. Where is it? Share.
+
+00:02:17.629 --> 00:02:19.629
+The link to your bot, and you just click this here.
+
+00:02:20.693 --> 00:02:22.693
+And click Share.
+
+00:02:22.882 --> 00:02:26.882
+I don't know why it called itself Voyant Digital Assistant, but there it is.
+
+00:02:27.606 --> 00:02:30.606
+And..oh, it found my phone. That's fun. Alright, so I'm gonna just…
+
+00:02:31.543 --> 00:02:34.543
+Copy this. Is it copied already? Let's find it.
+
+00:02:35.504 --> 00:02:44.504
+Alright, cool. Now I'm going to go to my, um, GitHub demo page, and I'll show you how to just add that in, uh, in case you have forgotten.
+
+00:02:50.165 --> 00:02:55.165
+Okay, so here is my main, like, code site here in GitHub.
+
+00:02:55.020 --> 00:03:04.020
+And I want to look for my main page. Actually, I don't want this on my main index page. I want it on my Schedule.md page.
+
+00:03:04.490 --> 00:03:13.490
+Because I think that's where… yep, that's where all my projects are. So I want to add to this, I'm going to add another link to another project.
+
+00:03:13.859 --> 00:03:18.859
+And, um, it doesn't have to be hosted in GitHub, it can just be hosted by whatever
+
+00:03:19.528 --> 00:03:23.528
+Um, platform you're using, so mine will just link out to the bot press…
+
+00:03:23.928 --> 00:03:25.928
+Um, chatbot, and that's fine with me.
+
+00:03:26.130 --> 00:03:29.130
+If you want to get super impressive,
+
+00:03:29.786 --> 00:03:35.786
+You can upload it to GitHub somehow. I'm not even sure how I would export.
+
+00:03:36.521 --> 00:03:40.521
+a commercial platform's chatbot, but if you can, have at it.
+
+00:03:40.993 --> 00:03:48.993
+Okay, so I have hit edit, and I am in Schedule.md, and this is ".md" so it's Markdown, okay? And we remember Markdown text.
+
+00:03:49.643 --> 00:03:55.643
+I'm gonna put it here, um, just before the research. I like my things in chronological order. You can do whatever you want.
+
+00:03:55.849 --> 00:04:00.849
+As far as organizing these, and I'm going to call this, "Impressive 
+
+00:04:01.076 --> 00:04:03.076
+Chatbot"
+
+00:04:03.837 --> 00:04:05.837
+Here, let's call it that.
+
+00:04:06.778 --> 00:04:08.778
+And then they need to link to it, and I,
+
+00:04:09.832 --> 00:04:13.832
+I think I already lost that link, so I'm gonna go click here again, share…
+
+00:04:14.827 --> 00:04:17.827
+And share, and copy…
+
+00:04:18.683 --> 00:04:20.683
+Copy…
+
+00:04:20.829 --> 00:04:22.829
+Do we think it's copied yet? There.
+
+00:04:24.055 --> 00:04:28.055
+Alright, now I need to… oh, I have to close this before I can go anywhere else.
+
+00:04:30.101 --> 00:04:33.101
+Okay, so I'm back here, now I'm gonna put my whole link.
+
+00:04:34.041 --> 00:04:40.041
+Now, it's not a .html or a .md, I'm linking to an outside website, and that's fine.
+
+00:04:40.198 --> 00:04:42.198
+And it should work there. So let's preview.
+
+00:04:43.042 --> 00:04:48.042
+And make sure it works. And I have to right-click and open in a new tab so that it doesn't…
+
+00:04:48.214 --> 00:04:51.214
+Um, leave this page without me checking it.
+
+00:04:51.636 --> 00:04:53.636
+And… there it is.
+
+00:04:54.210 --> 00:05:00.210
+Alright. I'm still annoyed, so I would have to go back and adjust this, because I don't know why it says Voyant, but…
+
+00:05:00.808 --> 00:05:04.808
+Either way, that is how you put this link here, and I can commit my changes.
+
+00:05:05.402 --> 00:05:07.402
+Don't forget to save.
+
+00:05:08.850 --> 00:05:11.850
+And then it will build. Remember, it takes a while.
+
+00:05:13.294 --> 00:05:17.294
+And so, once this is a nice little green check, like that, it will be up.
+
+00:05:18.274 --> 00:05:22.274
+So, you can post, um… you can still post the direct link from
+
+00:05:23.116 --> 00:05:25.116
+bot press, or from wherever you made your bot.
+
+00:05:25.245 --> 00:05:27.245
+to the, um, discussion?
+
+00:05:27.603 --> 00:05:29.603
+But if you want, you can definitely
+
+00:05:29.736 --> 00:05:33.736
+also link to your schedule.md page, and we can find it from there.
+
+00:05:34.571 --> 00:05:36.571
+Alright, hope that helps. Happy chatbotting.
+
